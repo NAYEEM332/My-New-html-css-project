@@ -1,0 +1,15 @@
+
+ul{
+    color: aqua;
+    background-color: black;
+}
+ol{
+    color:aqua;
+    background-color: black;
+}
+ul li{
+    color: aqua;
+    background-color: black;
+    display: inline;
+    
+}

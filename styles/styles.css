@@ -9,3 +9,22 @@
     color: maroon;
     text-decoration: underline wavy lightcoral;
 }
+h3{
+    text-align: center;
+}
+.para{
+    text-align: justify;
+    text-decoration: none;
+}
+.abs{
+    background-color: aqua;
+    border-radius: 10px;
+    border: solid 5px;
+}
+#border{
+    text-align: justify;
+    padding: 5px;
+    border: solid 10px ;
+    border-radius: 10px;
+    margin-left: 5px;
+}
