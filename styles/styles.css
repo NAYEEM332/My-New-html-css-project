@@ -4,3 +4,8 @@
     font-style: italic;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.headline{
+    text-align: center;
+    color: maroon;
+    text-decoration: underline wavy lightcoral;
+}
